@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="matiahkim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="matiahkim.com favicon" width="22px" src="" />][website]
 [<img align="left" alt="Matia Hyunbin Kim - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
