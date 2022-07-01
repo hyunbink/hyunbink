@@ -5,12 +5,11 @@
 <!--
 - 🔭 I’m currently working on ...
 -->
+- 😄 Pronouns: He/Him
 - 🌱 I’m currently learning React Hooks, Typescript, and Python  
-<!-- - 👯 I’m looking to collaborate on -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+- ✍ You can find my projects here [website]
 - 📫 How to reach me:
-- 😄 Pronouns: ...
+
 
 ### Connect with me:
 
