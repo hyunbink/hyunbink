@@ -7,7 +7,7 @@
 -->
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning React Hooks, Typescript, and Python  
-- ✍ You can find my projects here [website]
+- ✍ You can find my projects here [website]here
 - 📫 How to reach me:
 
 
