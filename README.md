@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### My name is Matia (Muh - tee - uh)
+#### My name is Matia (muh - tee - uh)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -8,7 +8,8 @@
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning React Hooks, Typescript, and Python  
 - ✍ You can find my projects here [Github Repos]
-- 📫 Message me from my portfolio [here]!
+- 💬 Ask me about ... Anything!!
+- 📫 Message me from my portfolio [here] or LinkedIn [<img align="left" alt="Matia Hyunbin Kim - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 ### Connect with me:
