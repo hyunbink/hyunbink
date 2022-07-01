@@ -1,11 +1,11 @@
 ### Hello there 👋
 
-**hyunbink/hyunbink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Matia (Muh - tee - uh)
 
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning React Hooks <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="height: 14px;" />
+- 🌱 I’m currently learning React Hooks <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="height: 20px; display:inline-block; " />
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
