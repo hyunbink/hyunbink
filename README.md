@@ -7,13 +7,13 @@
 -->
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning React Hooks, Typescript, and Python  
-- ✍ You can find my projects here [website]here
+- ✍ You can find my projects here here[portfolio]
 - 📫 How to reach me:
 
 
 ### Connect with me:
 
-[<img align="left" alt="matiahkim.com favicon" width="22px" src="" />][website]
+[<img align="left" alt="matiahkim.com favicon" width="22px" src="" />][portfolio]
 [<img align="left" alt="Matia Hyunbin Kim - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -35,5 +35,5 @@
 
 <br />
 
-[website]: https://matiahkim.com
+[portfolio]: https://matiahkim.com
 [linkedin]: https://www.linkedin.com/in/matia-kim/
