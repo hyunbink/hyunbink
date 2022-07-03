@@ -9,15 +9,15 @@
 - 🌱 I’m currently learning React Hooks, Typescript, and Python  
 - ✍ You can find my projects here [Github Repos]
 - 💬 Ask me about ... Anything!!
-- 📫 Message me from my portfolio [here] or LinkedIn [<span><img align="center" alt="Matia Hyunbin Kim - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></span>][linkedin]
+- 📫 Message me from my portfolio [here] or LinkedIn [<span><img align="center" alt="Matia Hyunbin Kim - LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></span>][linkedin]
 
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="matiahkim.com favicon" width="22px" src="" />][portfolio]
 [<img align="left" alt="Matia Hyunbin Kim - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<br /> -->
 
 ### Languages and Tools:
 
