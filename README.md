@@ -7,9 +7,9 @@
 -->
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning React Hooks, Typescript, and Python  
-- ✍ You can find my projects at [Github Repos] or <a href='https://www.matiahkim.com/#work'>here</a>
+- ✍ You can find my projects at [Github Repos] or from my porfolio <a href='https://www.matiahkim.com/#work'>here</a>
 - 💬 Ask me about ... Anything!!
-- 📫 Message me from my portfolio [here] or [linkedin]
+- 📫 Message me from my portfolio [here] or my [LinkedIn]
 
 <!-- ### Connect with me:
 
@@ -36,6 +36,6 @@
 <br />
 
 [portfolio]: https://matiahkim.com
-[linkedin]: https://www.linkedin.com/in/matia-kim/
+[LinkedIn]: https://www.linkedin.com/in/matia-kim/
 [Github Repos]: https://github.com/hyunbink?tab=repositories
 [here]: http://www.matiahkim.com/#contact
